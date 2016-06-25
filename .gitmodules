@@ -1,0 +1,6 @@
+[submodule "DPS"]
+	path = DPS
+	url = https://github.com/dockpanelsuite/dockpanelsuite.git
+[submodule "DockPanelSuite"]
+	path = DockPanelSuite
+	url = https://github.com/dockpanelsuite/dockpanelsuite.git
